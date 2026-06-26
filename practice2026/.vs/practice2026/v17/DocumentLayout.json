@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B1BF9CB-A480-4415-BD37-932B323CEABA}|task01\\task01.csproj|c:\\users\\egort\\practice\\practice2026-tolbin\\practice2026\\task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B1BF9CB-A480-4415-BD37-932B323CEABA}|task01\\task01.csproj|solutionrelative:task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{061ACD36-D157-4EDC-8892-4D297809E90E}|task01tests\\task01tests.csproj|c:\\users\\egort\\practice\\practice2026-tolbin\\practice2026\\task01tests\\stringextensionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{061ACD36-D157-4EDC-8892-4D297809E90E}|task01tests\\task01tests.csproj|solutionrelative:task01tests\\stringextensionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1BF9CB-A480-4415-BD37-932B323CEABA}|task01\\task01.csproj|c:\\users\\egort\\practice\\practice2026-tolbin\\practice2026\\task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1BF9CB-A480-4415-BD37-932B323CEABA}|task01\\task01.csproj|solutionrelative:task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StringExtensionsTests.cs",
               "DocumentMoniker": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task01tests\\StringExtensionsTests.cs",
               "RelativeDocumentMoniker": "task01tests\\StringExtensionsTests.cs",
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StringExtensions.cs",
               "DocumentMoniker": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task01\\StringExtensions.cs",
               "RelativeDocumentMoniker": "task01\\StringExtensions.cs",
