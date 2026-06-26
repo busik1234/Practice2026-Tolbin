@@ -1,0 +1,11 @@
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\bin\Debug\net9.0\task01.deps.json
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\bin\Debug\net9.0\task01.dll
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\bin\Debug\net9.0\task01.pdb
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\obj\Debug\net9.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\obj\Debug\net9.0\task01.AssemblyInfoInputs.cache
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\obj\Debug\net9.0\task01.AssemblyInfo.cs
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\obj\Debug\net9.0\task01.csproj.CoreCompileInputs.cache
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\obj\Debug\net9.0\task01.dll
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\obj\Debug\net9.0\refint\task01.dll
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\obj\Debug\net9.0\task01.pdb
+C:\Users\egort\practice\Practice2026-Tolbin\practice2026\task01\obj\Debug\net9.0\ref\task01.dll
