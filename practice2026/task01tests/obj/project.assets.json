@@ -411,16 +411,6 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
-      },
-      "task01/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "compile": {
-          "bin/placeholder/task01.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/task01.dll": {}
-        }
       }
     }
   },
@@ -942,18 +932,12 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "task01/1.0.0": {
-      "type": "project",
-      "path": "../task01/task01.csproj",
-      "msbuildProject": "../task01/task01.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "coverlet.collector >= 6.0.2",
-      "task01 >= 1.0.0",
       "xunit >= 2.9.2",
       "xunit.runner.visualstudio >= 2.8.2"
     ]
@@ -989,11 +973,7 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {
-            "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task01\\task01.csproj": {
-              "projectPath": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task01\\task01.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

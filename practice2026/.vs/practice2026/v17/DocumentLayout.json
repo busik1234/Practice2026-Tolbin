@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B1BF9CB-A480-4415-BD37-932B323CEABA}|task01\\task01.csproj|c:\\users\\egort\\practice\\practice2026-tolbin\\practice2026\\task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B1BF9CB-A480-4415-BD37-932B323CEABA}|task01\\task01.csproj|solutionrelative:task01\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D77CCCE-DB3E-4559-9CB1-BFC412680F84}|task02\\task02.csproj|c:\\users\\egort\\practice\\practice2026-tolbin\\practice2026\\task02\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D77CCCE-DB3E-4559-9CB1-BFC412680F84}|task02\\task02.csproj|solutionrelative:task02\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{061ACD36-D157-4EDC-8892-4D297809E90E}|task01tests\\task01tests.csproj|c:\\users\\egort\\practice\\practice2026-tolbin\\practice2026\\task01tests\\stringextensionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{061ACD36-D157-4EDC-8892-4D297809E90E}|task01tests\\task01tests.csproj|solutionrelative:task01tests\\stringextensionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{903AB30C-00F6-4B64-A3B0-83C72AA478F8}|task02tests\\task02tests.csproj|c:\\users\\egort\\practice\\practice2026-tolbin\\practice2026\\task02tests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{903AB30C-00F6-4B64-A3B0-83C72AA478F8}|task02tests\\task02tests.csproj|solutionrelative:task02tests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StringExtensionsTests.cs",
-              "DocumentMoniker": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task01tests\\StringExtensionsTests.cs",
-              "RelativeDocumentMoniker": "task01tests\\StringExtensionsTests.cs",
-              "ToolTip": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task01tests\\StringExtensionsTests.cs",
-              "RelativeToolTip": "task01tests\\StringExtensionsTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task02tests\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "task02tests\\StudentServiceTests.cs",
+              "ToolTip": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task02tests\\StudentServiceTests.cs",
+              "RelativeToolTip": "task02tests\\StudentServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T23:07:13.84Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T20:49:57.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StringExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task01\\StringExtensions.cs",
-              "RelativeDocumentMoniker": "task01\\StringExtensions.cs",
-              "ToolTip": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task01\\StringExtensions.cs",
-              "RelativeToolTip": "task01\\StringExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task02\\StudentService.cs",
+              "RelativeDocumentMoniker": "task02\\StudentService.cs",
+              "ToolTip": "C:\\Users\\egort\\practice\\Practice2026-Tolbin\\practice2026\\task02\\StudentService.cs",
+              "RelativeToolTip": "task02\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T23:06:19.973Z",
+              "WhenOpened": "2026-07-01T20:48:58.884Z",
               "EditorCaption": ""
             }
           ]
